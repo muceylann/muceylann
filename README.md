@@ -22,6 +22,6 @@ Marmara Üniversitesi Bilgisayar Mühendisliği (İngilizce) 2. sınıf öğrenc
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muceylann&show_icons=true&theme=radical)
 
 ### 📫 Bana Ulaşın
-- [LinkedIn](www.linkedin.com/in/mustafa-ümit-ceylan)
-- [Email](ceylanmustafaumit54@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mustafa-ümit-ceylan)
+- [Email](mailto:ceylanmustafaumit54@gmail.com)
 
