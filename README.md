@@ -1,21 +1,23 @@
 # 👋 Merhaba, Ben Mustafa Ümit Ceylan
 
-Marmara Üniversitesi Bilgisayar Mühendisliği (İngilizce) 2. sınıf öğrencisiyim. Verilerin arkasındaki anlamı keşfetmeye ve bu verileri Yapay Zeka (AI) & Derin Öğrenme (Deep Learning) modellerine dönüştürmeye tutkuluyum.
+Marmara Üniversitesi **Bilgisayar Mühendisliği (İngilizce)** 2. sınıf öğrencisiyim. Veri bilimini teoriden pratiğe dökerek; **Machine Learning, Backend ve Veritabanı** entegrasyonuyla uçtan uca sistemler geliştirmeye odaklanıyorum.
 
 ### 🎓 Eğitim
 - **Marmara Üniversitesi** | Bilgisayar Mühendisliği (İngilizce) | 2023 - 2028 (Beklenen)
 
 ### 🚀 Odak Alanlarım
-- 🧠 **Derin Öğrenme & ML:** Karmaşık problemleri çözmek için sinir ağları ve makine öğrenmesi algoritmaları geliştiriyorum.
-- 📊 **Veri Analizi:** Pandas ve NumPy kullanarak büyük veri setlerini işleme ve görselleştirme.
-- 💻 **Yazılım Geliştirme:** Java ve C ile sistem mantığını, Python ile yapay zekayı birleştiriyorum.
+- 🧠 **Makine Öğrenmesi (ML):** Karmaşık problemleri çözmek için sinir ağları ve makine öğrenmesi algoritmaları geliştiriyorum.
+- ⚡ **Backend Geliştirme (FastAPI):** Geliştirdiğim modelleri FastAPI kullanarak yüksek performanslı API'lara dönüştürüyor ve dış dünyaya açıyorum.
+- 📊 **Veri Analizi & MySQL:** Pandas ve NumPy ile veri işleme süreçlerini yönetirken, verilerin kalıcı ve düzenli tutulması için **MySQL** üzerinde veritabanı mimarileri tasarlıyorum.
 
 ### 🛠️ Teknik Yetenekler
 - **Programlama Dilleri:** Python, Java, C
-- **Veri Bilimi & ML:** TensorFlow, Scikit-Learn, Pandas, NumPy
-- **Arayüz Geliştirme:** JavaFX
+- **Veri Bilimi & ML:** Scikit-Learn, TensorFlow, Pandas, NumPy
+- **Backend & Database:** **FastAPI**, **MySQL (DDL, DML)**, Pydantic
+- **Arayüz & Araçlar:** Streamlit, JavaFX, Git/GitHub
 
 ### 📂 Öne Çıkan Projelerim
+- 🏦 [**Credit Risk Prediction System**](https://github.com/muceylann/credit-risk-prediction-system): FastAPI, Streamlit ve MySQL entegrasyonuyla geliştirilmiş, tahmin sonuçlarını veritabanında saklayan uçtan uca kredi risk analiz sistemi.
 - ✈️ [**SkyAnalytics**](https://github.com/muceylann/SkyAnalytics-Passenger-Satisfaction): Yolcu memnuniyetini %91 doğrulukla tahmin eden Machine Learning projesi.
 
 ### 📈 GitHub İstatistiklerim
@@ -24,4 +26,3 @@ Marmara Üniversitesi Bilgisayar Mühendisliği (İngilizce) 2. sınıf öğrenc
 ### 📫 Bana Ulaşın
 - [LinkedIn](https://www.linkedin.com/in/mustafa-ümit-ceylan)
 - [Email](mailto:ceylanmustafaumit54@gmail.com)
-
