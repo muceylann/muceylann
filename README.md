@@ -20,8 +20,6 @@ Marmara Üniversitesi **Bilgisayar Mühendisliği (İngilizce)** 2. sınıf öğ
 - 🏦 [**Credit Risk Prediction System**](https://github.com/muceylann/credit-risk-prediction-system): Random Forest ML modeliyle eğitilmiş, FastAPI, Streamlit ve MySQL entegrasyonuyla geliştirilmiş, tahmin sonuçlarını veritabanında saklayan uçtan uca kredi risk analiz sistemi.
 - ✈️ [**SkyAnalytics**](https://github.com/muceylann/SkyAnalytics-Passenger-Satisfaction): Yolcu memnuniyetini %91 doğrulukla tahmin eden Machine Learning projesi.
 
-### 📈 GitHub İstatistiklerim
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muceylann&show_icons=true&theme=radical)
 
 ### 📫 Bana Ulaşın
 - [LinkedIn](https://www.linkedin.com/in/mustafa-ümit-ceylan)
