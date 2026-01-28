@@ -17,7 +17,7 @@ Marmara Üniversitesi **Bilgisayar Mühendisliği (İngilizce)** 2. sınıf öğ
 - **Arayüz & Araçlar:** Streamlit, JavaFX, Git/GitHub
 
 ### 📂 Öne Çıkan Projelerim
-- 🏦 [**Credit Risk Prediction System**](https://github.com/muceylann/credit-risk-prediction-system): FastAPI, Streamlit ve MySQL entegrasyonuyla geliştirilmiş, tahmin sonuçlarını veritabanında saklayan uçtan uca kredi risk analiz sistemi.
+- 🏦 [**Credit Risk Prediction System**](https://github.com/muceylann/credit-risk-prediction-system): Random Forest ML modeliyle eğitilmiş, FastAPI, Streamlit ve MySQL entegrasyonuyla geliştirilmiş, tahmin sonuçlarını veritabanında saklayan uçtan uca kredi risk analiz sistemi.
 - ✈️ [**SkyAnalytics**](https://github.com/muceylann/SkyAnalytics-Passenger-Satisfaction): Yolcu memnuniyetini %91 doğrulukla tahmin eden Machine Learning projesi.
 
 ### 📈 GitHub İstatistiklerim
